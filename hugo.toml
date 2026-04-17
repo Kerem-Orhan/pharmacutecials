@@ -1,8 +1,8 @@
 baseURL = "https://Kerem-Orhan.github.io/pharmacutecials/"
 languageCode = "en-us"
 paginate = 6
-theme = "portio-hugo"
-title = "Portio"
+theme = "PaperMod"
+title = "Pharmaceuticals"
 
 ######################## Markup ##################################
 [markup.goldmark.renderer]
